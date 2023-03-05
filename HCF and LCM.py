@@ -1,3 +1,4 @@
+#There Might(Will) Be Better Version Than Mine
 while True:
     a = int(input("Enter The First Number: "))
     b = int(input("Enter The Second Number: "))
@@ -43,3 +44,4 @@ while True:
             lcm = int((a*b)/hcf)
             print("The L.C.M of",a,"and",b,"is",lcm)  
     print()
+    #There Might(Will) Be Better Version Than Mine
